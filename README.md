@@ -25,7 +25,7 @@ https://hassan2-aamir.github.io/Fetch-Data-using-useFetch/
 
    ```sh
    git clone https://github.com/hassan2-aamir/Fetch-Data-using-useFetch.git
-   cd Fetch-Data-using-useFetch
+   cd Fetch-Data-using-useFetch/custom_hook
    ```
 
 2. Install dependencies:
